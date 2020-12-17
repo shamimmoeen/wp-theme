@@ -1,0 +1,30 @@
+{
+  "name": "wp-theme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Gruntfile.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Mainul Hassan Main <shamim.moeen@gmail.com> (https://mainulhassan.info)",
+  "license": "GPL-2.0-or-later",
+  "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.9.5",
+    "@wordpress/eslint-plugin": "^7.4.0",
+    "browser-sync": "^2.26.7",
+    "eslint": "^7.15.0",
+    "grunt": "^1.0.4",
+    "grunt-wp-i18n": "^1.0.3",
+    "grunt-wp-readme-to-markdown": "^2.0.1",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-babel": "^8.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-touch-cmd": "0.0.1",
+    "gulp-uglify": "^3.0.2",
+    "jquery": "^3.5.1"
+  },
+  "dependencies": {}
+}

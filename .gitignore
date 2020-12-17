@@ -21,3 +21,11 @@ node_modules/
 *.log
 *.sql
 *.sqlite
+
+vendor/
+reports/
+tests.html
+
+report.*
+bak.*
+.todo

@@ -1,13 +1,13 @@
-# WP Theme #
-**Contributors:** [shamimmoeen](https://profiles.wordpress.org/shamimmoeen)  
-**Requires at least:** 5.3  
-**Tested up to:** 5.6  
-**Requires PHP:** 5.6  
-**Stable tag:** 1.0  
-**License:** GPLv2 or later  
-**License URI:** http://www.gnu.org/licenses/gpl-2.0.html  
+=== WP Theme ===
+Contributors: shamimmoeen
+Requires at least: 5.3
+Tested up to: 5.6
+Requires PHP: 5.6
+Stable tag: 1.0
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-## Description ##
+== Description ==
 
 This is a child theme of Twenty Twenty-One theme.
 
@@ -17,7 +17,7 @@ With new block patterns, which allow you to create a beautiful layout in a matte
 
 Take it for a spin! See how Twenty Twenty-One elevates your portfolio, business website, or personal blog.
 
-## Installation ##
+== Installation ==
 
 1. In your admin panel, go to Appearance -> Themes and click the 'Add New' button.
 2. Type in Twenty Twenty-One in the search form and press the 'Enter' key on your keyboard.
@@ -25,19 +25,19 @@ Take it for a spin! See how Twenty Twenty-One elevates your portfolio, business 
 4. Go to INSERT ABOUT PAGE for a guide on how to customize this theme.
 5. Navigate to Appearance > Customize in your admin panel and customize to taste.
 
-## Privacy ##
+== Privacy ==
 Twenty Twenty-One uses LocalStorage to save the setting when Dark Mode support is turned on or off.
 LocalStorage is necessary for the setting to work and is only used when a user clicks on the Dark Mode button.
 No data is saved in the database or transferred.
 
-## Changelog ##
+== Changelog ==
 
-### 1.0 ###
+= 1.0 =
 * Released: December 8, 2020
 
 Initial release
 
-## Copyright ##
+== Copyright ==
 
 Twenty Twenty-One WordPress Theme, 2020 WordPress.org
 Twenty Twenty-One is distributed under the terms of the GNU GPL.
